@@ -1,2 +1,2 @@
 #### firstProject
-[UNGS] (https://github.com/sergioGlant/firstProject/blob/master/Carrito%20de%20compras.png)
+(https://github.com/sergioGlant/firstProject/blob/master/Carrito%20de%20compras.png)
